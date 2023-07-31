@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'reservations.dart';
 
 void main() {
-  runApp(const MaterialApp(home: ReservationPage()));
+  runApp(const MaterialApp(home: ReservationProject()));
 }
 
 class ReservationProject extends StatefulWidget {
